@@ -1,0 +1,11 @@
+Package: CDctn
+Type: Package
+Title: Coordinate-Descent Algorithm for Continuous Data
+Version: 0.1.0
+Authors@R: person("Jiaying", "Gu", email = "gujy.lola@gmail.com", role = c("aut", "cre"))
+Maintainer: Jiaying Gu <gujy.lola@gmail.com>
+Description: Structure learning of Bayesian network using coordinate-descent
+    algorithm. Designed for continuous data using a Gaussian model.
+License: GPL (>= 2)
+LazyData: TRUE
+RoxygenNote: 5.0.1
